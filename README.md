@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Isadora Fernandes!
-> Status: Developping ⚠️
+> Status: Developing ⚠️
 <img align="center"  height="150rem" alt="cat" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 
