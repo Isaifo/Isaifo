@@ -1,4 +1,4 @@
-# Hey 👋, I'm Isadora Fernandes!
+## Hey 👋, I'm Isadora Fernandes!
 
 <!--
 **Isaifo/Isaifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
