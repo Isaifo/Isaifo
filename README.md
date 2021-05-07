@@ -9,12 +9,6 @@
 + I'm currently learning at backend ✨
 + I'm looking to collaborate on community 📡
     
-## My Social Medias:
-<table>
-  <tr>
-      <td><a>https://www.linkedin.com/in/isadora-fernandes-41b3911ab/ </a></td>
-    <td></td>
-    <td></td>
-  
-  </tr>
-</table>
+## Connect with me:
+<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/isadora-fernandes-41b3911ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/isadora-fernandes-41b3911ab" height="30" width="40" /></a>
+</p>
