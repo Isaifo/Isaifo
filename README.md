@@ -41,5 +41,5 @@
 
 </br>
 
-   
+   ![Snake animation](https://github.com/rafaballerini/Isaifo/blob/output/github-contribution-grid-snake.svg)
 
