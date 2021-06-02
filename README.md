@@ -14,10 +14,12 @@
 <div>
 
 ### GitHub Stats and Most Used Languages:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaifo&show_icons=true&theme=radical)
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaifo&layout=compact&langs_count=16&theme=radical"/>
+ 
+  <div>
+  <a href="https://github.com/Lorenaasilva">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isaifo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaifo&layout=compact&langs_count=16&theme=radical"/>
+<div>
 
    </div> 
  <h3 align="left">Languages and Tools:</h3>
@@ -38,3 +40,7 @@
 <img align="left" border-top="100rem" height="200rem" alt="cat" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
 
 </br>
+ 
+     ![Snake animation](https://github.com/Lorenaasilva/Isaifo/blob/output/github-contribution-grid-snake.svg)
+   
+
