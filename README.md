@@ -37,6 +37,6 @@
 
 <br>
 
-<img align="right" border-top="100rem" height="200rem" alt="cat" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
+<img align="left" border-top="100rem" height="200rem" alt="cat" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
 
 </br>
