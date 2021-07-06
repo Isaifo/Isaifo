@@ -7,7 +7,6 @@
 
 + Computer science student at UTFPR 👩‍💻
 + I'm currently studing to be a fullstack developer 📚
-+ I'm currently learning at backend ✨
 + I'm looking to collaborate on community📡
 
 
