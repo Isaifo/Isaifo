@@ -37,7 +37,7 @@
 <br>
 
 <img align="left" border-top="100rem" height="200rem" alt="cat" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Isaifo/Isaifo/blob/output/github-contribution-grid-snake.svg)
 </br>
    
     
