@@ -40,6 +40,5 @@
 
 </br>
    
-   ![Snake animation](https://github.com/Isaifo/Isaifo/blob/output/github-contribution-grid-snake.svg)
-   
+
     
