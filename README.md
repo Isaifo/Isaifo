@@ -3,7 +3,7 @@
 <img align="center"  height="150rem" alt="cat" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 
-<summary> ### About: </summary>
+ ### About: 
 
 + Computer science student at UTFPR 👩‍💻
 + I'm currently studing to be a fullstack developer 📚
