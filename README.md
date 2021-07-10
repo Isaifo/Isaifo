@@ -37,7 +37,7 @@
  ### Contact me:
 
  <div>
-  <a href = "mailto: isadoraicontato@hotmail.com"><img width="90px" height="30px" src="https://i.imgur.com/08NqUUT.png" target="_blank"></a>
+  <a href = "mailto: isadoraicontato@hotmail.com"><img width="100px" height="30px" src="https://i.imgur.com/08NqUUT.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isadora-fernandes-41b3911ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
