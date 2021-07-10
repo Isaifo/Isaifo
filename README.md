@@ -29,7 +29,7 @@
  <a href="https://www.tutorialspoint.com/typescript/index.htm" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>   </a>
  <a href="https://spring.io/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> 
 </a>
- <a href="https://angular.io/guide" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular JS" width="40" height="40""/> </a>
+ <a href="https://angular.io/guide" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular JS" width="40" height="40"/> </a>
 
 ### Contact me:
 
