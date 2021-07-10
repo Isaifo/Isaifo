@@ -33,7 +33,8 @@
 </a>
  <a href="https://angular.io/guide" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular JS" width="40" height="40"/> </a>
    </p>
-### Contact me:
+ 
+ ### Contact me:
 
  <div>
   <a href = "mailto: isadoraicontato@hotmail.com"><img width="40px" height="30px" src="https://i.imgur.com/wocFovQ.png target="_blank"></a>
