@@ -3,11 +3,13 @@
 <img align="center"  height="150rem" alt="cat" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 
- ### About: 
+ <details>
+  <summary markdown="span">### About: 
 + I love sports and technology 
 + Computer science student at UTFPR 👩‍💻
 + I'm currently studing to be a fullstack developer 📚
 + I'm looking to collaborate on community📡
+   </summary>
 
 
 <div>
