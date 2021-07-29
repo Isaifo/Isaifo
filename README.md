@@ -14,11 +14,11 @@
 <div>
 
 ### GitHub Stats and Most Used Languages:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
   <div>
   <a href="https://github.com/Isaifo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isaifo&show_icons=true&theme=vision-friendly-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaifo&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 <div>
 
