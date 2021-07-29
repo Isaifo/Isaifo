@@ -19,6 +19,7 @@
 
   <div>
   <a href="https://github.com/Isaifo">
+   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=Isaifo&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="Stats"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaifo&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 <div>
 
