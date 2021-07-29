@@ -14,10 +14,10 @@
 <div>
 
 ### GitHub Stats and Most Used Languages:
- 
+
   <div>
   <a href="https://github.com/Isaifo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isaifo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaifo&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 <div>
 
