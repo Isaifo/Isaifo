@@ -6,7 +6,7 @@
 ### About: 
 + I love sports and technology 
 + Computer science student at UTFPR 📚
-+ I'm fullstack developer and work as Software QA analyst 💻👩‍
++ I'm fullstack developer and working as Software QA analyst 💻👩‍
 + I'm looking to collaborate on community📡
  
 
