@@ -5,8 +5,8 @@
 
 ### About: 
 + I love sports and technology 
-+ Computer science student at UTFPR 👩‍💻
-+ I'm currently studing to be a fullstack developer 📚
++ Computer science student at UTFPR 📚
++ I'm fullstack developer and work on Software QA analyst 💻👩‍
 + I'm looking to collaborate on community📡
  
 
