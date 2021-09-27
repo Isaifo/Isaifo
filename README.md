@@ -40,7 +40,7 @@
  ### Contact me:
 
  <div>
-  <a href = "mailto: isadoraicontato@hotmail.com"><img width="150px" height="29px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
   <a href="https://www.linkedin.com/in/isadora-fernandes-41b3911ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
