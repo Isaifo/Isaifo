@@ -13,17 +13,6 @@
 
 <div>
 
-### GitHub Stats and Most Used Languages:
-
-
-
-  <div>
-  <a href="https://github.com/Isaifo">
-   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=Isaifo&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="Stats"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaifo&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
-<div>
-
-   </div> 
  <h3 align="left">Languages and Tools:</h3>
 <p alignt="left"
  <a href="https://www.cprogramming.com/" target="_blank"> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
