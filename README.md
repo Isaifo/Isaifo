@@ -5,10 +5,13 @@
 + Computer science student at UTFPR 📚
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg" height="40" width="52" alt="java logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="52" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="40" width="52" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" height="40" width="52" />
   
