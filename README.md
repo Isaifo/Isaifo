@@ -1,9 +1,5 @@
 ## Hey 👋, I'm Isadora Fernandes!
 
-### About: 
-+ I love sports and technology 
-+ Computer science student at UTFPR 📚
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg" height="40" width="52" alt="java logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" width="52" alt="java logo"  />
